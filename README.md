@@ -92,7 +92,7 @@ This project analyzes customer churn behavior using SQL and Power BI. The goal i
 
 ## 📷 Dashboard Preview
 
-![Dashboard][(images/dashboard.png)](https://github.com/MehulVi/customer-churn-analysis-sql-powerbi/blob/main/image.png)
+[(images/dashboard.png)](https://github.com/MehulVi/customer-churn-analysis-sql-powerbi/blob/main/image.png)
 
 ---
 
